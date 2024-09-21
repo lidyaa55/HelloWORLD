@@ -1,23 +1,12 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is a simple "Hello World" program developed as part of my journey to enhance my software engineering skills.
 
-{Provide a description of your software}
+The purpose of creating this software is to practice basic programming concepts such as syntax, I/O operations, and the setup of a Python development environment. Additionally, this project helped me familiarize myself with running and debugging Python code, which is crucial for more complex applications in the future.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/9a12ac180a1e4d6dbbf3802419aca8a8?sid=f9f06e30-bdaf-412f-9146-7c78ffe8d3cc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- **Editor**: Visual Studio Code
+- **Operating System**: Windows 10
